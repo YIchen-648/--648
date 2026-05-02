@@ -1,0 +1,4 @@
+plawright
+openai
+requests
+python-dotenv
